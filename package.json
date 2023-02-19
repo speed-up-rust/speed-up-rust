@@ -11,5 +11,6 @@
     "vitepress": "^1.0.0-alpha.45",
     "vue": "^3.2.47"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git@github.com:speed-up-rust/speed-up-rust.git"
 }
